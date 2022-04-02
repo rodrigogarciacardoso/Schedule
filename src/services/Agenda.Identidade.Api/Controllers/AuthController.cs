@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Agenda.Identidade.Api.Controllers;
 
+[ApiController]
 [Route("api/identidades")]
 public class AuthController : Controller
 {
