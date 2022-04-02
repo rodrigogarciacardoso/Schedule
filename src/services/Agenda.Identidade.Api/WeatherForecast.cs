@@ -1,4 +1,4 @@
-namespace Schedule.Api
+namespace Agenda.Identidade.Api
 {
     public class WeatherForecast
     {

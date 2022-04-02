@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace Schedule.Api.Controllers
+namespace Agenda.Api.Controllers
 {
     [ApiController]
     [Route("[controller]")]
